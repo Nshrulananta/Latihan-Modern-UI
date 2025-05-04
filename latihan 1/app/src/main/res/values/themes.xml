@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Tema dasar -->
+    <style name="Base.Theme.AIModern" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+    </style>
+
+    <!-- Tema utama yang dipanggil di Manifest -->
+    <style name="Theme.AIModern" parent="Base.Theme.AIModern"/>
+</resources>
