@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HackDon UI Dash</string>
+    <string name="login_title">HackDon UI Dash</string>
+    <string name="login_subtitle">Login to your account</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="forgot_password_text">Forget your Password?</string>
+    <string name="facebook_button_text">Facebook</string>
+    <string name="google_button_text">Google</string>
+    <string name="instagram_button_text">Instagram</string>
+    <string name="signup_link_text">Don't Have An Account? SIGNUP</string>
+    <string name="signup_title">Sign Up Your Account</string>
+    <string name="hint_full_name">Your Name</string>
+    <string name="hint_repassword">Re-enter Password</string>
+    <string name="signup_button_text">SIGN UP</string>
+    <string name="image_description">Image description here</string>
+</resources>
